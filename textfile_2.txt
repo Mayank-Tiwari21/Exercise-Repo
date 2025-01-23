@@ -3,6 +3,6 @@ This is another text file.
 
 It contains the text
 
-Changes to be reverted.
-Changes not yet established.
+
+
 
